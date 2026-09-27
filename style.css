@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #1f1f2e;
+  color: #fff;
+}
+
+.navbar nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.navbar nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar nav a:hover {
+  color: #ffb703;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: #f4f4f9;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
