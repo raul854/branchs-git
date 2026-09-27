@@ -21,3 +21,14 @@
 .navbar nav a:hover {
   color: #ffb703;
 }
+
+.hero {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: #f4f4f9;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
